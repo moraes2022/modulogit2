@@ -1,0 +1,11 @@
+{
+  "name": "gites",
+  "version": "1.0.0",
+  "description": "Alterando o readme;\r Criando o arquivo index.html;\r Criando o arquivo style.css;\r Inserindo o link para o style.ccs no index.html\r Aplicando estilo no html;",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
